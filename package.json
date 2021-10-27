@@ -1,0 +1,23 @@
+{
+  "name": "json_callback",
+  "version": "1.0.0",
+  "description": "in-class example for the json exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FoongL/json_callback.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FoongL/json_callback/issues"
+  },
+  "homepage": "https://github.com/FoongL/json_callback#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
